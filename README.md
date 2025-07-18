@@ -27,5 +27,5 @@ A state-of-the-art face verification system with multi-model consensus, quality 
 
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/face-verification.git
+git clone https://github.com/sithumpabodha/face-verification.git
 cd face-verification
