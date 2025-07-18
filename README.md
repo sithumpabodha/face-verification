@@ -40,7 +40,7 @@ Usage
 Basic Verification
 bash
 
-python professional_verifier.py
+python facerec.py
 
 Follow prompts to input image paths
 API Mode
