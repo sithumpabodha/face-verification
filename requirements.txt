@@ -1,0 +1,3 @@
+deepface==[your-current-version]
+opencv-python==[your-current-version]
+tensorflow==[your-current-version]
